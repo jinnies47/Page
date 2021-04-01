@@ -1,0 +1,53 @@
+.Getintouch
+{
+    color:rgb(71, 71, 177);
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+.show{
+    margin-left:550px;
+    margin-top: 10px;
+}
+a:link {
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+    background-color: transparent;
+    text-decoration: none;
+  }
+.branding{
+    margin-left: 20px;
+    margin-top: 17px;
+    font-size: 25px;
+}
+.v1 {
+    border-left: 3px inset rgb(74, 168, 240);
+    height: 500px;
+    margin-right:2px;
+  }
+.ad{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.ad1{
+    margin-top: 20px;
+    margin-left: -1px;
+}
+.look h3{
+    color:rgb(71, 71, 177);
+    margin-top: 20px;
+}
+.look h5{
+    margin-top: 17px;
+}
+.flex{
+    display: flex;
+}
